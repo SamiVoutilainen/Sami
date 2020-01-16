@@ -1,5 +1,5 @@
-header{
-    background-color: rgb(1, 43, 0);
+header, footer{
+    background-color: rgb(1, 44, 0);
 }
 
 .flexContainer > div, .flexcolumn > div {
@@ -7,7 +7,7 @@ header{
     margin:10px;
     line-height:50px;
     font-size:30px;
-    width: fit-content;
+    
     display:flex; 
     align-content: space-between;
 }
@@ -24,23 +24,27 @@ header{
     display: flex;
     background-color: rgb(2, 54, 0);
     flex-direction: column;
+    
 }
 .box{
     float:right;
-    width:200px;
+    
     background-color: rgb(20, 51, 0);
     min-height: 700px;
     color:white;
+    
 }
 p{
     font-family:"Arial";
-    float:center;   
+       
 }
 
-footer{
-    background-color: black;
+.box2{
+
     float:left;
-    height:100px;
+    background-color: rgb(20, 51, 0);
+    min-height: 700px;
+    color:white;
+    
 }
-
 
