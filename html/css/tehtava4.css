@@ -1,4 +1,4 @@
-header,footer{
+header{
     background-color: rgb(1, 43, 0);
 }
 
@@ -38,13 +38,9 @@ p{
     font-family:"Arial";
        
 }
-
-.box2{
-
-    float:left;
-    background-color: rgb(20, 51, 0);
-    min-height: 700px;
-    color:white;
-    width: 100%;
+footer{
+    background-color: rgb(1, 43, 0);
 }
+
+
 
