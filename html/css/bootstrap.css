@@ -1,6 +1,12 @@
 body{
-background-color: rgb(65, 65, 223);
+background-color: rgb(113, 76, 161);
 }
+
+.container{
+background-color: rgba(200, 200, 200);
+max-width:960px;
+}
+
 .bluebg{
-    background-color: rgb(184, 252, 129)
+background-color: rgb(200, 200, 200);
 }
