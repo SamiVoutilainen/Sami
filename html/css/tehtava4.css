@@ -34,6 +34,12 @@ header{
 }
 p{
     font-family:"Arial";
-    float:left;
-    align-content: center;
+    float:center;   
 }
+footer{
+    background-color: black;
+    float:left;
+    height:100px;
+}
+
+
