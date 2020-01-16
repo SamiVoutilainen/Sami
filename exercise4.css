@@ -1,0 +1,36 @@
+header {
+    background-color:Blue;
+    height:200px;
+    text-align: center;
+    color:white;
+}
+
+footer{
+    
+    background-color:black;
+    height:100px; 
+    color:white;
+
+}
+
+.flexContainer{
+    display:flex;
+    background-color: lightgrey;
+    align-content:space-between;
+    flex-wrap:wrap;
+    height: 500px;
+
+}
+
+.box{
+    float:left;
+    width:200px;
+    background-color: yellow;
+    min-height: 700px;
+}
+
+.flexcolumn{
+    display: flex;
+    background-color: lightgrey;
+    flex-direction: column;
+}
