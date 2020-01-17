@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(113, 76, 161);
+    background-color: rgb(108, 47, 133);
     }
     
     .container{
@@ -9,5 +9,36 @@ body{
     
     .bluebg{
     background-color: rgb(200, 200, 200);
+    font-size:150%;
+    }
+
+    .paakuva{
+    display: inline-block;
+    width: 100%; 
+    height: auto;
+    }
+
+    .leijona{
+    display:inline;
+    width: 20%; 
+    height: auto;
+    }
+
+    
+    h1{
+        
+        font-size: "200px";
+        display:inline;
+        font-family:'Comic Sans';
+    }
+
+    a{
+        color:black;
+        
+    }
+    footer{
+        font-size: large;
+        
+        
     }
     
