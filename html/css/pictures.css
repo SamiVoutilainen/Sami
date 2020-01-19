@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(108, 47, 133);
+    }
+
+.container{
+    background-color: rgb(108, 47, 133);
+    max-width:960px;
+    }
+
+    img{
+        max-width: 100%;
+        height: auto;
+    }
+
+    h1{
+        font-family:'Comin Sans';
+    }
+    
+
